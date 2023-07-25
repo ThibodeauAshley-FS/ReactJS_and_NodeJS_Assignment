@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_db_api",
+  "version": "1.0.0",
+  "description": "Node JS RestfulAPI Project Express",
+  "main": "server,js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "NodeJS",
+    "Restful",
+    "API"
+  ],
+  "author": "Ashley Thibodeau",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
