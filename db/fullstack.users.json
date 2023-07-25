@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64beba6d7f299fecf2c96adb"
+  },
+  "fName": "Ashley",
+  "lName": "Thibodeau",
+  "email": "me@ash1ey.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bebab9651338af19edfe3a"
+  },
+  "fName": "Gretchen",
+  "lName": "Thibodeau",
+  "email": "kandgt@townisp.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf0f8a49a5e1510cb63a3f"
+  },
+  "fName": "Ashley",
+  "lName": "Thibodeau",
+  "email": "me@ash1ey.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf3a72ed6afcedd2a8813a"
+  },
+  "fName": "Ashley",
+  "lName": "Thibodeau",
+  "email": "me@ash1ey.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf499c27eedc4a77191326"
+  },
+  "fName": "Ashley",
+  "lName": "Thibodeau",
+  "email": "me@ash1ey.com",
+  "__v": 0
+}]

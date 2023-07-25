@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64bdb30f4fcecf649a4c500c"
+  },
+  "painting": "Starry Night",
+  "artist": "Vincent van Gogh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdb7c97fd7acb6ee20837f"
+  },
+  "painting": "Mona Lisa",
+  "artist": "Leonardo da Vinci",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdd6c11a2b35b5d5ae9e86"
+  },
+  "painting": "The Last Supper",
+  "artist": "Leonardo da Vinci",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdd6dc1a2b35b5d5ae9e89"
+  },
+  "painting": "The Scream",
+  "artist": "Edvard Munch",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdd6f11a2b35b5d5ae9e8c"
+  },
+  "painting": "Girl with a Pearl Earring",
+  "artist": "Johannes Vermeer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bde9afebcbde19ffc05c93"
+  },
+  "painting": "Guernica",
+  "artist": "Pablo Picasso",
+  "__v": 0
+}]

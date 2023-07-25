@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64bf18caaa9d45c290ef2eaf"
+  },
+  "info": {
+    "$oid": "64bdd6dc1a2b35b5d5ae9e89"
+  },
+  "name": "The Scream",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdb85e0a57c307054260d3"
+  },
+  "info": {
+    "$oid": "64bdb30f4fcecf649a4c500c"
+  },
+  "name": "Starry Night",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdb85e0a57c307054260e4"
+  },
+  "info": {
+    "$oid": "64bdb7c97fd7acb6ee20837f"
+  },
+  "name": "Mona Lisa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdd83e9e73ce710783eb2d"
+  },
+  "info": {
+    "$oid": "64bdd6dc1a2b35b5d5ae9e89"
+  },
+  "name": "The Scream",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdef516d0dd22a4c967855"
+  },
+  "info": {
+    "$oid": "64bdd6dc1a2b35b5d5ae9e89"
+  },
+  "name": "The ScreamM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bdefa66d0dd22a4c967859"
+  },
+  "info": {
+    "$oid": "64bdd6dc1a2b35b5d5ae9e89"
+  },
+  "name": "The Screammm",
+  "__v": 0
+}]
